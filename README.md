@@ -10,16 +10,16 @@
 ### Blocks and Items
 
 1. **Point Block**
-![Home Block](imgs\home_block.png)
-![Craft](imgs\home_block_craft.png)
+![Home Block](imgs/home_block.png)
+![Craft](imgs/home_block_craft.png)
 
 1. **Compass**
-![Compass](imgs\compass_craft.png)
+![Compass](imgs/compass_craft.png)
 
 ### Using
 
 1. Right click at point block and set name of block.
-![Set name](imgs\name.png)
+![Set name](imgs/name.png)
 1. Left click at point block with compass.
 1. Left click with compass in hand and its arrow will point at attached block.
 
@@ -41,4 +41,4 @@ Then use **cross product of vectors** to determine where block is located regard
 
 The arrow of compass deviates by an angle A.
 
-![Diagram](imgs\diagram.png)
+![Diagram](imgs/diagram.png)
