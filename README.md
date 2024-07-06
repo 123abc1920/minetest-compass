@@ -10,6 +10,7 @@
 ### Blocks and Items
 
 1. **Point Block**
+
 ![Home Block](imgs/home_block.png)
 ![Craft](imgs/home_block_craft.png)
 
