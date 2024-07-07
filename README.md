@@ -9,7 +9,7 @@
 
 ### Blocks and Items
 
-1. **Point Block**<div style="margin-top:10px"><img src="imgs/home_block.png" alt="Home Block" style="width:200px;"/><img src="imgs/home_block_craft.png" alt="Craft" style="width:200px;"/></div>
+1. **Point Block**<div style="margin-top:10px"><img src="imgs/home_block.png" alt="Home Block" style="width:200px;"/></div><div style="margin-top:10px"><img src="imgs/home_block_craft.png" alt="Craft" style="width:200px;"/></div>
 
 
 1. **Compass**<div style="margin-top:10px"><img src="imgs/compass_craft.png" alt="Compass" style="width:200px;"/></div>
