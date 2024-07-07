@@ -9,20 +9,14 @@
 
 ### Blocks and Items
 
-1. **Point Block**<div style="margin-top:10px">
-    <img src="imgs/home_block.png" alt="Home Block" style="width:200px;"/>
-    <img src="imgs/home_block_craft.png" alt="Craft" style="width:200px;"/>
-</div>
+1. **Point Block**<div style="margin-top:10px"><img src="imgs/home_block.png" alt="Home Block" style="width:200px;"/><img src="imgs/home_block_craft.png" alt="Craft" style="width:200px;"/></div>
 
 
-1. **Compass**<div style="margin-top:10px">
-    <img src="imgs/compass_craft.png" alt="Compass" style="width:200px;"/>
-</div>
+1. **Compass**<div style="margin-top:10px"><img src="imgs/compass_craft.png" alt="Compass" style="width:200px;"/></div>
 
 ### Using
 
-1. Right click at point block and set name of block.
-<img src="imgs/name.png" alt="Set name" style="width:200px; margin-top:10px"/>
+1. Right click at point block and set name of block.<div style="margin-top:10px"><img src="imgs/name.png" alt="Set name" style="width:200px; margin-top:10px"/></div>
 1. Left click at point block with compass.
 1. Left click with compass in hand and its arrow will point at attached block.
 
