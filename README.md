@@ -9,18 +9,20 @@
 
 ### Blocks and Items
 
-1. **Point Block**
+1. **Point Block**<div style="margin-top:10px">
+    <img src="imgs/home_block.png" alt="Home Block" style="width:200px;"/>
+    <img src="imgs/home_block_craft.png" alt="Craft" style="width:200px;"/>
+</div>
 
-![Home Block](imgs/home_block.png)
-![Craft](imgs/home_block_craft.png)
 
-1. **Compass**
-![Compass](imgs/compass_craft.png)
+1. **Compass**<div style="margin-top:10px">
+    <img src="imgs/compass_craft.png" alt="Compass" style="width:200px;"/>
+</div>
 
 ### Using
 
 1. Right click at point block and set name of block.
-![Set name](imgs/name.png)
+<img src="imgs/name.png" alt="Set name" style="width:200px; margin-top:10px"/>
 1. Left click at point block with compass.
 1. Left click with compass in hand and its arrow will point at attached block.
 
@@ -41,5 +43,6 @@ ab=|a||b|cosA
 Then use **cross product of vectors** to determine where block is located regarding player`s line of view. If it is on the right then add 180 to **angle A**.
 
 The arrow of compass deviates by an angle A.
-
-![Diagram](imgs/diagram.png)
+<div style="text-align:center;">
+    <img src="imgs/diagram.png" alt="Diagram" style="width:200px;"/>
+</div>
