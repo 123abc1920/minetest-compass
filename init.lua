@@ -1,5 +1,5 @@
 local store = minetest.get_mod_storage()
-points = minetest.deserialize(store:get_string("compasses"))
+points = minetest.deserialize(store:get_string("compasses")) or {}
 
 local save = function()
     store:set_string("compasses", minetest.serialize(points))
