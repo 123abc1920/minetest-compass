@@ -189,11 +189,16 @@ for i = 1, 8 do
     minetest.register_tool("compass:compass_item_" .. i, {
         description = "Compass",
         inventory_image = "compass_item_" .. i .. ".png",
+		groups = { not_in_creative_inventory = 1 },
         on_use = function(stack, user, point)
             changeCompass(stack, user, point)
         end
     })
 end
+
+minetest.override_item("compass:compass_item_1", {
+    groups = {},
+})
 
 minetest.register_craft({
     type = "shaped",
